@@ -1,4 +1,6 @@
 **Instrucciones:**
+
+
 **Entregable:** Implementación de una técnica de aprendizaje máquina sin el uso de un framework.
 
 Crea un espacio dentro del repositorio de GitHub que creaste para el portafolio de implementación (por ejemplo, una carpeta para el módulo de ML con una subcarpeta para este entregable).
