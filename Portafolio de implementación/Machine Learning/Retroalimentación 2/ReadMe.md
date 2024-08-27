@@ -6,9 +6,9 @@ Este proyecto implementa un modelo de regresión lineal utilizando la clase `SGD
 
 ## Archivos
 
-- **notebook.ipynb**: Contiene el código completo y las explicaciones sobre el proceso de desarrollo del modelo.
+- **Momento de Retroalimentación2_Modulo2.ipynb**: Contiene el código completo y las explicaciones sobre el proceso de desarrollo del modelo.
 - **data/Valhalla23 (1).csv**: Dataset utilizado para entrenar y probar el modelo.
-- **resultados.pdf**: Reporte en PDF generado a partir del Jupyter Notebook.
+- **Momento de Retroalimentación2_Modulo2.ipynb - Colab.pdf**: Reporte en PDF generado a partir del Jupyter Notebook.
 
 ## Selección de Hiperparámetros
 
