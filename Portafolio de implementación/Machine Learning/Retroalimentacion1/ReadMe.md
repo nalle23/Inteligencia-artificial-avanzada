@@ -25,7 +25,7 @@ Este proyecto forma parte del portafolio de implementación del módulo de Machi
 
 4. **Entrega de Archivos:**
    - **Jupyter Notebook:** `Momento de Retroalimentaación_Modulo2.ipynb` con todo el desarrollo y código comentado.
-   - **PDF del Notebook:** `Momento de Retroalimentaación_Modulo2.pdf`.
+   - **PDF del Notebook:** `Momento de Retroalimentaación_Modulo2 - Colab.pdf`.
 
 ---
 
@@ -33,7 +33,7 @@ Este proyecto forma parte del portafolio de implementación del módulo de Machi
 
 - `Modulo_ML/Entregable1/`
   - `Momento de Retroalimentaación_Modulo2.ipynb` : Jupyter Notebook con la implementación del algoritmo.
-  - `Momento de Retroalimentaación_Modulo2.pdf` : Versión en PDF del Jupyter Notebook.
+  - `Momento de Retroalimentaación_Modulo2 - Colab.pdf` : Versión en PDF del Jupyter Notebook.
   - `Valhalla23 (1).csv` : Conjunto de datos utilizado para el entrenamiento y prueba.
 
    RUTA: Portafolio de implementación/Machine Learning/Retroalimentacion1/Valhalla23 (1).csv
@@ -53,7 +53,7 @@ Este proyecto forma parte del portafolio de implementación del módulo de Machi
 ## Cambios
 `Momento de Retroalimentaación_Modulo2.ipynb (2)- Colab.pdf`
 
-`Momento de Retroalimentaación_Modulo2 (1)- Colab.ipynb`
+`Momento de Retroalimentaación_Modulo2 (1).ipynb`
 
 - El readme debe decir cuales archivos se van a revisar y la ruta para encontrarlos
 - El modelo se entrena sobre un subset de entrenamiento del dataset
