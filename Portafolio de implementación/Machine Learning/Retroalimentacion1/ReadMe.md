@@ -35,7 +35,8 @@ Este proyecto forma parte del portafolio de implementación del módulo de Machi
   - `Momento de Retroalimentaación_Modulo2.ipynb` : Jupyter Notebook con la implementación del algoritmo.
   - `Momento de Retroalimentaación_Modulo2.pdf` : Versión en PDF del Jupyter Notebook.
   - `Valhalla23 (1).csv` : Conjunto de datos utilizado para el entrenamiento y prueba.
-  RUTA: Portafolio de implementación/Machine Learning/Retroalimentacion1/Valhalla23 (1).csv
+
+   RUTA: Portafolio de implementación/Machine Learning/Retroalimentacion1/Valhalla23 (1).csv
 
 
 ---
@@ -46,3 +47,14 @@ Este proyecto forma parte del portafolio de implementación del módulo de Machi
   
 - **Parámetros Iniciales (`theta`):** Los parámetros se inicializaron en ceros para simplificar el inicio del entrenamiento. Esto es una práctica común cuando no se tiene información previa sobre los valores óptimos.
 
+
+---
+
+## Cambios
+
+- El readme debe decir cuales archivos se van a revisar y la ruta para encontrarlos
+- El modelo se entrena sobre un subset de entrenamiento del dataset
+- El readme contiene una sección de cambios implementados, donde se mencione el cambio indicado por el docente y lo que se hizo para resolverlo (solo aplica para entrega final)
+- Explicar el motivo de la elección de la tasa
+
+---
