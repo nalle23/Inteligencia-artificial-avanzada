@@ -1,13 +1,46 @@
-**Instrucciones:**
+# 📊 Implementación de Algoritmo de Regresión Lineal desde Cero
 
+Este proyecto forma parte del portafolio de implementación del módulo de Machine Learning y está diseñado para resolver uno de los desafíos iniciales propuestos en clase.
 
-**Entregable:** Implementación de una técnica de aprendizaje máquina sin el uso de un framework.
+---
 
-Crea un espacio dentro del repositorio de GitHub que creaste para el portafolio de implementación (por ejemplo, una carpeta para el módulo de ML con una subcarpeta para este entregable).
-Selecciona uno de los dos primeros 'Challenge' vistos en clase (Week01_Challenge.pdf o Week02_Challenge1.pdf) y programa un algoritmo que permita resolver el problema. Dicho algoritmo debe ser uno de los algoritmos vistos en el módulo (o que tu profesor de módulo autorice), y no puedes usar ninguna biblioteca o framework de aprendizaje máquina, ni de estadística avanzada. Lo que se busca es que implementes manualmente el algoritmo, no que importes un algoritmo ya implementado. 
-Divide el set de datos del problema en dos subconjuntos, uno para entrenamiento y otro para prueba. Entrena tu modelo sobre el primer subconjunto, y por un mínimo de 100 iteraciones. Selecciona valores para la tasa de aprendizaje y para los parámetros iniciales, según tu criterio.
-Prueba tu implementación. Para ello, utiliza el modelo entrenado para hacer predecir las salidas del subconjunto de prueba, y compara contra los datos reales en una gráfica. 
-Calcula el valor de la función de costo para el subconjunto de entrenamiento, y para el subconjunto de prueba. 
-Para facilitar la revisión, entrega dos archivos. El primero debe ser un Jupyter Notebook con todo el desarrollo (código comentado). El segundo debe ser un PDF del Jupyter Notebook. Para esto último, utiliza el comando nbconvert --to html para exportar el notebook a HTML y poder guardar el PDF más fácilmente (https://github.com/jupyter/nbconvert). Ten en cuenta que debes cargar tu directorio de Drive y dar la ruta al archivo, por lo que el comando completo sería: 
-!jupyter nbconvert --to html /content/drive/MyDrive/ColabNotebooks/archivo.ipynb
-Después de la entrega intermedia se te darán correcciones que puedes incluir en tu entrega final.
+## 📝 Instrucciones del Entregable
+
+1. **Seleccionar el Challenge:**
+   - Se ha elegido implementar un algoritmo de **Regresión Lineal** para resolver el problema presentado en `Week01_Challenge.pdf`.
+
+2. **Desarrollo del Algoritmo:**
+   - **Implementación Manual:** El algoritmo de regresión lineal se ha implementado desde cero sin utilizar ninguna biblioteca o framework de aprendizaje automático.
+   - **División del Conjunto de Datos:** 
+     - **Entrenamiento:** 80%
+     - **Prueba:** 20%
+   - **Entrenamiento del Modelo:** 
+     - **Tasa de Aprendizaje (`alpha`):** 0.001
+     - **Parámetros Iniciales (`theta`):** Inicializados en ceros.
+     - **Número de Iteraciones:** 5000
+
+3. **Evaluación del Modelo:**
+   - **Predicciones:** Se generaron predicciones para el conjunto de prueba y se compararon con los datos reales mediante una gráfica.
+   - **Cálculo de la Función de Costo:** Se calculó el costo para ambos conjuntos de entrenamiento y prueba.
+
+4. **Entrega de Archivos:**
+   - **Jupyter Notebook:** `Momento de Retroalimentaación_Modulo2.ipynb` con todo el desarrollo y código comentado.
+   - **PDF del Notebook:** `Momento de Retroalimentaación_Modulo2.pdf`.
+
+---
+
+## 📂 Contenido del Repositorio
+
+- `Modulo_ML/Entregable1/`
+  - `Momento de Retroalimentaación_Modulo2.ipynb` : Jupyter Notebook con la implementación del algoritmo.
+  - `Momento de Retroalimentaación_Modulo2.pdf` : Versión en PDF del Jupyter Notebook.
+  - `Valhalla23 (1).csv` : Conjunto de datos utilizado para el entrenamiento y prueba.
+
+---
+
+## 🔍 Explicación de la Selección de Hiperparámetros
+
+- **Tasa de Aprendizaje (`alpha`):** Se eligió una tasa de aprendizaje de 0.001 para asegurar una convergencia estable del algoritmo. Una tasa más alta podría causar oscilaciones o divergencia, mientras que una tasa más baja ralentiza el proceso de aprendizaje.
+  
+- **Parámetros Iniciales (`theta`):** Los parámetros se inicializaron en ceros para simplificar el inicio del entrenamiento. Esto es una práctica común cuando no se tiene información previa sobre los valores óptimos.
+
