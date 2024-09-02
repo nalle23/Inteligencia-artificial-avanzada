@@ -53,7 +53,7 @@ Este proyecto forma parte del portafolio de implementación del módulo de Machi
 ## Cambios
 `Momento de Retroalimentaación_Modulo2.ipynb (2)- Colab.pdf`
 
-`Momento de Retroalimentaación_Modulo2 (1)- Colab.pdf`
+`Momento de Retroalimentaación_Modulo2 (1)- Colab.ipynb`
 
 - El readme debe decir cuales archivos se van a revisar y la ruta para encontrarlos
 - El modelo se entrena sobre un subset de entrenamiento del dataset
