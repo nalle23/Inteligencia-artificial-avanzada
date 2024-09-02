@@ -35,6 +35,8 @@ Este proyecto forma parte del portafolio de implementación del módulo de Machi
   - `Momento de Retroalimentaación_Modulo2.ipynb` : Jupyter Notebook con la implementación del algoritmo.
   - `Momento de Retroalimentaación_Modulo2.pdf` : Versión en PDF del Jupyter Notebook.
   - `Valhalla23 (1).csv` : Conjunto de datos utilizado para el entrenamiento y prueba.
+  RUTA: Portafolio de implementación/Machine Learning/Retroalimentacion1/Valhalla23 (1).csv
+
 
 ---
 
