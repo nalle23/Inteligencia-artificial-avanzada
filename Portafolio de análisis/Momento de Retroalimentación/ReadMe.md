@@ -35,3 +35,4 @@ Este proyecto está diseñado para fomentar la reflexión crítica y el análisi
   - Título en **negrita**.
   - Texto **justificado**.
 - **Descripción**: Ensayo corregido con las mejoras de presentación.
+- **Relación al socio**: Otra de las mejoras implementadas fue la inclusión de información detallada sobre la normativa del socio colaborador (Kaggle), así como una evaluación de los posibles sesgos que la información proporcionada en el reto podría contener. Esto garantiza una mayor transparencia y comprensión de los datos, permitiendo a los participantes tomar decisiones más informadas al abordar el desafío.
